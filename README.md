@@ -1,120 +1,98 @@
-<h1 align="center">Hi there 👋, I'm Seemab Hassan</h1>
-<h3 align="center">AI Explorer | Deep Learning Enthusiast | Soon-to-be Computer Science Graduate 🎓</h3>
+# 💫 About Me
+
+Hi, I’m **Seemab Hassan** 👋  
+🎓 Final-year CS Student | Passionate about AI & ML | Exploring Everything Under the AI Umbrella  
+
+I’m on a mission to turn complex AI ideas into real-world impact — whether it's moderating images, decoding language, or deploying models that actually *do stuff*.  
+
+> 🧠 "AI isn't just about machines thinking — it's about making tech more *human-aware*, useful, and ethical."
 
 ---
 
-### 🎓 About Me
+## 🌟 Quick Intro
 
-I'm a **final semester Computer Science student** (majoring in Artificial Intelligence) at Arid Agriculture University. As I stand on the edge of graduation, I'm not just reflecting on what I've learned — I’m looking ahead to where I can make a difference.
-
-My passion lies in **developing meaningful AI solutions** — from intelligent image classifiers to real-time detection systems. I love turning theoretical concepts into tangible, impactful tools.
-
-  🚀 “To me, AI isn’t just about algorithms — it’s about curiosity, creativity, and building tech that matters.”
-
----
-
-### 🧠 Areas I’m Exploring
-
-- 🧩 Computer Vision & Image Classification  
-- 🗣️ Natural Language Processing & Smart Assistants  
-- 📈 Time-Series Prediction (Finance & Trends)  
-- ⚖️ Ethical AI & Bias Reduction  
-- 🎯 AI in Healthcare, Safety & Content Moderation
+- 🔍 Started with Python notebooks, now building full-stack ML pipelines  
+- 🤖 Love making AI systems that *see*, *understand*, and *react* to the world  
+- 🛠 Currently exploring **Computer Vision**, **NLP**, and **Generative AI**  
+- 💡 Always open to learning new tools, frameworks, or just vibing over ideas!
 
 ---
 
-### 🚀 Projects That I'm Proud Of
+## 🚀 Projects I'm Proud Of
 
-#### 🛡️ AI-Based Image Moderation System *(2025)*
-A production-ready image moderation system trained to identify unsafe content like gore, weapons, and offensive gestures.
-- Built a **custom CNN** + **EfficientNet** ensemble with **threshold tuning**
-- Preprocessed 8K+ labeled images with Roboflow
-- Designed for zero-tolerance detection with robust inference logic
+- 🧼 **AI-Powered Image Moderation System**  
+  Custom CNN classifier to detect inappropriate content (weapons, gore, hate signs) with real-time backend integration, threshold tuning & ensemble comparison (EfficientNet + Custom CNN).
 
-#### 🐕‍🦺 Dogecoin Price Prediction *(2025)*
-Crypto forecasting using deep learning.
-- Engineered features from 5 years of Binance/CoinGecko data
-- Trained a hybrid **LSTM-GRU + XGBoost** model
-- Predicted price volatility with performance-optimized layers
+- 👁️ **YOLOv8 & YOLOv9 for Object Detection**  
+  Built detection pipelines for safety-critical environments using annotated datasets and live testing.
 
-#### 📩 AI Bulk Email Sender *(2025)*
-A smart, automated email tool using **Streamlit + Gemini API**
-- AI-drafted custom messages
-- Batch sends up to 100 emails
-- Firebase Firestore for user auth + tracking
+- 💌 **Smart Email Generator (NLP + Gemini API)**  
+  Automated bulk email customization using NLP models; deployed with a sleek Firebase + React frontend.
 
-#### ✋ Sign Language Digit Detector *(2025)*
-Hand gesture recognition using **YOLOv8**
-- Built a custom dataset for numbers 0-9
-- Achieved high precision in real-time classification
-
-#### 🎗️ Breast Cancer Prediction *(2024)*
-Built ML models on diagnostic data for binary classification
-- Used TensorFlow, Scikit-learn, PyTorch
-- 90% accuracy with strong generalization
-
-#### 🃏 Playing Card Detection *(2023–2024)*
-YOLOv8-based card recognition system
-- Trained on custom dataset via Roboflow
-- Achieved 91% accuracy on real-scene images
-
-#### 🎨 Color Detection with YOLOv9 *(2024)*
-Color-aware object detection system with real-time responsiveness
-
-#### 🧠 Other Projects
-- 🗨️ NLP Chatbot (Python + NLTK)  
-- 🏥 Blood Bank Management (SQL)  
-- 🖧 IT Dept. Network Simulation (Cisco Packet Tracer)  
-- 🕹️ Multi-Level Queue Scheduling (Linux)  
+- 📈 **Dogecoin Forecasting System**  
+  LSTM-GRU + XGBoost hybrid model to predict price trends, with custom evaluation metrics & signal generation logic.
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🎓 Certifications & Courses
 
-#### 🔤 Languages
-- Python 🐍 (core language)
-- Basics of HTML, CSS, and React.js
+> "Learning never stops — always sharpening the tools 🧠"
 
-#### ⚙️ Frameworks & Libraries
-- TensorFlow, PyTorch, Scikit-learn, Streamlit, OpenCV  
-- Pandas, Matplotlib, Seaborn  
-- YOLOv8 / YOLOv9, NLTK
+- 📌 **Machine Learning Specialization**  
+  *Online Course by DeepLearning.AI – Completed May 2024*
 
-#### 🧪 Tools & Platforms
-- Jupyter Notebook, Google Colab, PyCharm  
-- Roboflow, Firebase, Cisco Packet Tracer
+- 🐍 **Python for Data Science, AI, and Applications**  
+  *Online Course – Completed September 2023*
+  
+🧷 *(Always leveling up...)*
 
 ---
 
-### 🏅 Certifications
+## 🧰 My Tech Toolbox
 
+### 💻 Most Used Language:
+`Python` — 💯 My go-to for everything AI & ML
 
-- **Machine Learning Specialization** – Coursera (May 2024)  
-- **Python for Data Science, AI & Applications** – (Sept 2023)
+### 🧠 Other Languages:
+`C++` • `HTML/CSS` • `React.js` (learning stage)
 
----
+### 📦 Frameworks & Libraries:
+`TensorFlow` • `Keras` • `OpenCV` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `Plotly`
 
-### 🎯 What Drives Me
-
-My mission is to **bridge the gap between human needs and intelligent technology**. I believe in the potential of AI to **enhance lives**, **protect communities**, and **open doors** to innovation we haven’t imagined yet.
-
-I’m especially drawn to:
-- Human-centered AI development  
-- Making complex systems accessible and explainable  
-- Ethical design of machine learning pipelines  
-- Exploring real-time, production-grade AI systems  
-
-> “Tech should not only be powerful — it should be responsible, inclusive, and useful.”
+### 🛠 Tools & Platforms:
+`Jupyter Notebook` • `Google Colab` • `PyCharm` • `Firebase` • `Streamlit` • `Figma` • `Anaconda` • `Tailwind CSS`
 
 ---
 
-### 📬 Let’s Connect
+## 🎯 What Drives Me?
 
-- 📧 Email: seemabhassan05@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/seemab-hassan-31aaa030a)  
-    
-<!-- If you add Kaggle or Medium later, we can pop that in too -->
+The thrill of creating tech that can *learn, adapt, and grow*.  
+From building image classifiers that **protect users**, to writing code that can **understand language**, my core focus is to make AI:
+
+- 🔐 **Safe**
+- ⚡ **Scalable**
+- 💬 **Human-aware**
+
+I’m especially hyped about ethical AI, real-time deployment, and using machine learning for social good.
 
 ---
 
-<p align="center">💫 Thanks for reading — let's build something amazing together! 💫</p>
+## 📫 Let's Connect
+
+If you're building something meaningful in AI, or just wanna geek out over tech or ideas — I’d *love* to chat!
+
+> “Stay curious. Keep building. Let the models do the learning.” 😄
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seemab-hassan-31aaa030a/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seemabhassan05@gmail.com)
+
+---
+
+## 🧠 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=seemab24&theme=dark&hide_border=true&include_all_commits=true&count_public=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=seemab24&theme=dark&hide_border=true)  
+
+[![](https://visitcount.itsvg.in/api?id=seemab24&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly crafted with passion and caffeine 💻☕ -->
